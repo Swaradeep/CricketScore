@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cricket Score</string>
+    <string name="groupA">Group A</string>
+    <string name="groupB">Group B</string>
+    <string name="score">0</string>
+    <string name="six">six</string>
+    <string name="four">four</string>
+    <string name="two">two</string>
+    <string name="one">one</string>
+    <string name="wicket">wicket</string>
+    <string name="three">three</string>
+    <string name="noOfWicketsA">0</string>
+    <string name="reset">reset</string>
+    <string name="slash">/</string>
+    <string name="todo">TODO</string>
+
+</resources>
